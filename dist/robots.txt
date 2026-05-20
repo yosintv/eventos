@@ -1,0 +1,48 @@
+# Event Countdown Website robots.txt
+# Domain: countdown.singhyogendra.com.np
+# Updated: 2026-05-20
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /.git/
+Disallow: /.github/
+Disallow: /node_modules/
+Disallow: /src/
+Disallow: /dist/
+Disallow: /*.json$
+Disallow: /*?*sort=
+Disallow: /*?*page=
+Disallow: /*?*utm_
+
+# Crawl delay for other bots (optional)
+# Crawl-delay: 1
+
+# Allow Google Bot
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Allow Bing Bot
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# Disallow bad bots
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: SemrushBot
+User-agent: SemrushBot-SA
+Disallow: /
+
+User-agent: AhrefsBot
+User-agent: AhrefsBot-Site
+Disallow: /
+
+# Sitemaps
+Sitemap: https://countdown.singhyogendra.com.np/sitemap.xml
+
+# Host preference
+Host: https://countdown.singhyogendra.com.np
