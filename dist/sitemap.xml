@@ -74,7 +74,25 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://countdown.singhyogendra.com.np/?category=holiday%2Fus</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://countdown.singhyogendra.com.np/?category=awards</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://countdown.singhyogendra.com.np/?category=holiday%2Fgb</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://countdown.singhyogendra.com.np/?category=cultural</loc>
     <lastmod>2026-05-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
@@ -397,6 +415,326 @@
     <image:image>
       <image:loc>https://i.days.to/large/igdb/007-first-light-ar3nvk</image:loc>
       <image:title>007: First Light</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://countdown.singhyogendra.com.np/countdown/spider-noir</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://i.days.to/large/moviedb/spider-noir-qfbVc3kuVqBEgxpon1nBRF1t9KT</image:loc>
+      <image:title>Spider-Noir (Global)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://countdown.singhyogendra.com.np/countdown/the-four-seasons</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://i.days.to/large/moviedb/the-four-seasons-season-2-xJATsby</image:loc>
+      <image:title>The Four Seasons</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://countdown.singhyogendra.com.np/countdown/pressure-movie</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://i.days.to/large/moviedb/pressure-movie-q7ZgPZIqSYm3UlrdCldkYzjGOCI</image:loc>
+      <image:title>Pressure</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://countdown.singhyogendra.com.np/countdown/backrooms</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://i.days.to/large/moviedb/backrooms-tRNtJKTFFP1a5otc4jsjw7cs12P</image:loc>
+      <image:title>Backrooms</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://countdown.singhyogendra.com.np/countdown/star-city</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://i.days.to/large/moviedb/star-city-wjE0iiTmxNtxeUsCS7GZVPuJ9x3</image:loc>
+      <image:title>Star City</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://countdown.singhyogendra.com.np/countdown/pokemon-go-fest-2026-tokyo</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://i.days.to/large/pokemongo/pokemon-go-fest-2026-tokyo</image:loc>
+      <image:title>Pokémon GO Fest 2026: Tokyo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://countdown.singhyogendra.com.np/countdown/uefa-champions-league-final</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://i.days.to/large/generated/champions-league-final</image:loc>
+      <image:title>UEFA Champions League Final</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://countdown.singhyogendra.com.np/countdown/blue-moon</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://i.days.to/large/generated/blue-moon</image:loc>
+      <image:title>Blue Moon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://countdown.singhyogendra.com.np/countdown/world-no-tobacco-day</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://i.days.to/large/generated/world-no-tobacco-day</image:loc>
+      <image:title>World No Tobacco Day</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://countdown.singhyogendra.com.np/countdown/haney-vs-romero</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://i.days.to/large/generated/boxing-generic</image:loc>
+      <image:title>Haney vs Romero</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://countdown.singhyogendra.com.np/countdown/full-moon</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://i.days.to/large/generated/full-moon</image:loc>
+      <image:title>Full Moon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://countdown.singhyogendra.com.np/countdown/wwe-clash-italy-2026</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://i.days.to/large/generated/wwe-clash-italy-2026</image:loc>
+      <image:title>WWE Clash in Italy</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://countdown.singhyogendra.com.np/countdown/june</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://i.days.to/large/generated/june</image:loc>
+      <image:title>June</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://countdown.singhyogendra.com.np/countdown/pride-month</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://i.days.to/large/generated/pride-month</image:loc>
+      <image:title>Pride Month</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://countdown.singhyogendra.com.np/countdown/computex</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://i.days.to/large/generated/computex</image:loc>
+      <image:title>Computex</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://countdown.singhyogendra.com.np/countdown/love-island-usa</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://i.days.to/large/moviedb/love-island-usa-m0TiLZ79RR19Zz0AZruQSBeH39x</image:loc>
+      <image:title>Love Island USA</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://countdown.singhyogendra.com.np/countdown/iem-cologne-major-2026</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://i.days.to/large/youtube/iem-cologne-major-2026-Gwj69jwlYnI</image:loc>
+      <image:title>IEM Cologne Major 2026</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://countdown.singhyogendra.com.np/countdown/microsoft-build</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://i.days.to/large/generated/microsoft-build-2026</image:loc>
+      <image:title>Microsoft Build</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://countdown.singhyogendra.com.np/countdown/nba-finals</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://i.days.to/large/generated/nba-finals</image:loc>
+      <image:title>NBA Finals</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://countdown.singhyogendra.com.np/countdown/tribeca-festival</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://i.days.to/large/generated/tribeca-festival</image:loc>
+      <image:title>Tribeca Festival</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://countdown.singhyogendra.com.np/countdown/clarksons-farm</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://i.days.to/large/moviedb/clarksons-farm-e5c9375c</image:loc>
+      <image:title>Clarkson's Farm</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://countdown.singhyogendra.com.np/countdown/primavera-sound</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://i.days.to/large/moviedb/primavera-sound-portishead</image:loc>
+      <image:title>Primavera Sound</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://countdown.singhyogendra.com.np/countdown/americas-got-talent</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://i.days.to/large/moviedb/americas-got-talent-p7a2f9ge</image:loc>
+      <image:title>America's Got Talent</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://countdown.singhyogendra.com.np/countdown/amazing-digital-circus-the-last-act</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://i.days.to/large/moviedb/amazing-digital-circus-the-last-act-uETSwIud6TRC7XFW3hLQK5meMg3</image:loc>
+      <image:title>The Amazing Digital Circus: The Last Act</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://countdown.singhyogendra.com.np/countdown/stanley-cup-finals</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://i.days.to/large/generated/stanley-cup-finals</image:loc>
+      <image:title>Stanley Cup Finals</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://countdown.singhyogendra.com.np/countdown/cma-fest</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://i.days.to/large/music-festival</image:loc>
+      <image:title>CMA Fest</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://countdown.singhyogendra.com.np/countdown/hajj</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://i.days.to/large/generated/hajj</image:loc>
+      <image:title>Hajj</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://countdown.singhyogendra.com.np/countdown/summer-game-fest</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://i.days.to/large/generated/summer-game-fest-2026</image:loc>
+      <image:title>Summer Game Fest</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://countdown.singhyogendra.com.np/countdown/national-donut-day</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://i.days.to/large/generated/national-donut-day</image:loc>
+      <image:title>National Donut Day</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://countdown.singhyogendra.com.np/countdown/governors-ball</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://i.days.to/large/music-festival</image:loc>
+      <image:title>Governors Ball</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://countdown.singhyogendra.com.np/countdown/masters-of-the-universe</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://i.days.to/large/moviedb/masters-of-the-universe-yt0sZFDhB3ROrusxKT4Ogus4cEl</image:loc>
+      <image:title>Masters of the Universe</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://countdown.singhyogendra.com.np/countdown/scary-movie-2026</loc>
+    <lastmod>2026-05-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://i.days.to/large/moviedb/scary-movie-2026-7GuYEJ8eouxDJo5BYjwROzMqziw</image:loc>
+      <image:title>Scary Movie</image:title>
     </image:image>
   </url>
 </urlset>

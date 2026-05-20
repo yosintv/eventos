@@ -3,6 +3,12 @@ import react from '@vitejs/plugin-react'
 import { VitePWA } from 'vite-plugin-pwa'
 
 export default defineConfig({
+  // Base path for deployment
+  // For GitHub Pages subdirectory (yosintv.github.io/eventos): base: '/eventos/'
+  // For custom domain (countdown.singhyogendra.com.np): base: '/'
+  // NOTE: Update this based on your deployment target!
+  base: '/eventos/',
+
   plugins: [
     react(),
     VitePWA({
@@ -30,6 +36,9 @@ export default defineConfig({
     }),
   ],
   build: {
+    // Ensure index.html is generated for SPA routing
+    outDir: 'dist',
+    emptyOutDir: true,
     rollupOptions: {
       output: {
         manualChunks: (id: string) => {

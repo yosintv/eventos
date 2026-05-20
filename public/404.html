@@ -29,22 +29,46 @@
     <meta name="twitter:image" content="https://via.placeholder.com/1200x630/000000/FFFFFF/?text=Event+Countdown" />
 
     <!-- Favicon - Clock -->
-    <link rel="icon" type="image/svg+xml" href="/eventos/countdown-clock.svg" />
-    <link rel="apple-touch-icon" href="/eventos/countdown-clock.svg" />
+    <link rel="icon" type="image/svg+xml" href="/countdown-clock.svg" />
+    <link rel="apple-touch-icon" href="/countdown-clock.svg" />
 
     <!-- Manifest -->
-    <link rel="manifest" href="/eventos/manifest.webmanifest" />
+    <link rel="manifest" href="/manifest.webmanifest" />
 
     <!-- Preconnect to external resources -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="dns-prefetch" href="https://i.days.to" />
     <link rel="dns-prefetch" href="https://www.youtube.com" />
-    <script type="module" crossorigin src="/eventos/assets/index-CSCUCHPI.js"></script>
-    <link rel="modulepreload" crossorigin href="/eventos/assets/rolldown-runtime-jpDsebLB.js">
-    <link rel="modulepreload" crossorigin href="/eventos/assets/react-vendor-7ZL4_44P.js">
-    <link rel="stylesheet" crossorigin href="/eventos/assets/index-EB3v4TMx.css">
-  <link rel="manifest" href="/eventos/manifest.webmanifest"><script id="vite-plugin-pwa:register-sw" src="/eventos/registerSW.js"></script></head>
+
+    <script>
+      // Single Page App (SPA) Router for GitHub Pages
+      // This script handles routing for client-side navigation
+      (function() {
+        var redirect = sessionStorage.redirect;
+        delete sessionStorage.redirect;
+        if (redirect && redirect !== location.href) {
+          history.replaceState(null, null, redirect);
+        }
+      }());
+    </script>
+  </head>
   <body>
+    <script>
+      // Store the requested URL in sessionStorage
+      // This will be used by the main app to navigate to the correct route
+      var pathName = window.location.pathname;
+      var searchQuery = window.location.search;
+      var hashValue = window.location.hash;
+
+      // If we're on 404.html page, redirect to index.html with the path preserved
+      if (pathName !== '/' && !pathName.includes('.')) {
+        sessionStorage.redirect = pathName + searchQuery + hashValue;
+        window.location.replace('/index.html');
+      }
+    </script>
+
+    <!-- This will be served by GitHub Pages for any 404 route -->
+    <!-- The above script redirects to index.html while preserving the path -->
     <div id="root"></div>
   </body>
 </html>
