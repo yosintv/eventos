@@ -25,7 +25,7 @@ jobs:
         run: python -m pip install --upgrade pip curl_cffi
 
       - name: Refresh API files
-        run: python scripts/update_api.py --start-page 1 --pages 25 --output-dir api
+        run: python scripts/event.py --start-page 1 --pages 25 --output-dir api
 
       - name: Commit and push if changed
         run: |
