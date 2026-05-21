@@ -1,4 +1,4 @@
-name: Update API
+name: Update API Pages
 
 on:
   workflow_dispatch:
@@ -12,7 +12,7 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
 
-    steps: 
+    steps:
       - name: Checkout
         uses: actions/checkout@v4
 
